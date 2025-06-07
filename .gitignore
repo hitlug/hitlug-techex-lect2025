@@ -1,0 +1,18 @@
+# Ignore .code-workspace files
+*.code-workspace
+
+# Ignore .obsidian files
+.obsidian
+
+# Ignore .obsidian directory
+.obsidian/
+
+# Ignore .obsidian directory
+.obsidian/plugins/
+
+# Ignore .obsidian directory
+.obsidian/snippets/
+
+# Ignore some files
+总课纲与前言等.md
+(decrapated)linux基础课纲 第一讲.md
