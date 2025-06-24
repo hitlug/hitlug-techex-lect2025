@@ -1,5 +1,7 @@
 # 第零讲 环境配置和守则
 
+前置知识：无
+
 Copyright 2025 wold9168@GitHub(Shinonome Tera tanuki)
 
 ---

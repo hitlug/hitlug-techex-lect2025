@@ -1,5 +1,9 @@
 # 第一讲 非常基础的命令行操作
 
+前置知识：无
+
+Copyright 2025 OhanaTyan@GitHub, wold9168@GitHub(Shinonome Tera tanuki)
+
 这一讲主要讲一些非常基础的 linux 操作。尽管不同的终端有各种各样的差别，但这部分的基础内容基本上对于所有的命令行终端都使用
 
 ---
