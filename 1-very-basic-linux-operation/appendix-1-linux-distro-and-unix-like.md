@@ -55,7 +55,7 @@ Unix-like 则是遵循 UNIX 设计哲学的系统（包括 Linux、BSD、MacOS �
 
 Linux 发行版的好坏和取用在社区中是颇具争议的话题。我们建议您访问[DistroWatch](https://distrowatch.com/)获取更多对这些 Linux 发行版的技术评论。您应该根据你自己的实际需要选择适合自己的 Linux 发行版！
 
-Linux 的发行版数量庞大！阅读[维基百科的 Linux 发行版词条]以获取更多信息！该词条包含一张《[不同主要发行版开发过程的时间线](https://zh.wikipedia.org/zh-hans/Linux%E5%8F%91%E8%A1%8C%E7%89%88#/media/File:2023_Linux_Distributions_Timeline.svg)》，十分值得一看。
+Linux 的发行版数量庞大！阅读[维基百科的 Linux 发行版词条](https://zh.wikipedia.org/zh-hans/Linux%E5%8F%91%E8%A1%8C%E7%89%88)以获取更多信息！该词条包含一张《[不同主要发行版开发过程的时间线](https://zh.wikipedia.org/zh-hans/Linux%E5%8F%91%E8%A1%8C%E7%89%88#/media/File:2023_Linux_Distributions_Timeline.svg)》，十分值得一看。
 
 ## 延伸阅读
 
