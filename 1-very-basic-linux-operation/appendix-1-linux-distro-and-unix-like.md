@@ -20,8 +20,9 @@ Unix-like 则是遵循 UNIX 设计哲学的系统（包括 Linux、BSD、MacOS �
 我们常见的 Linux 发行版包括但不限于如下的几款（排名为字母序）：
 
 - Aipine Linux：Alpine Linux 是一个由社区开发的基于 musl 和 BusyBox 的 Linux 操作系统。其以安全为理念，面向 x86 路由器、防火墙、虚拟专用网、IP电话盒及服务器。因其轻量化，也被广泛应用于容器技术中。
-- Arch Linux：Arch Linux 是一个轻量的、灵活的 Linux 发行版，遵循 K.I.S.S.（在设计当中应当注重简约，“Keep It Simple, Stupid”）原则。Arch Linux 以滚动更新和“简洁”（Arch Linux 将简洁定义为：避免任何不必要的添加、修改和复杂化的增加）著称。它的初始安装仅提供命令行环境，一般被认为适合高级用户。
 - AlmaLinux：自由且开放源代码的 Linux 发行版。被认为是 CentOS 的后继者之一。
+- AOSC：安同 OS（英译：AOSC OS）是一款以“简明可靠”为设计及维护目标的 Linux 发行版。本系统主要面向有一定 Linux 使用经验的用户，针对个人桌面设备优化体验，致力于为用户提供开箱即用和简便可靠的工作环境。其开发方安同开源社区（Anthon Open Source Community，简称 AOSC）成立于 2011 年末，是一个由计算机爱好者志愿组织工作，主要活动于线上的开源社区。该系统以支持龙芯 3 和 LoongArch 新世界架构以及 RISC-V 等新兴架构文明。
+- Arch Linux：Arch Linux 是一个轻量的、灵活的 Linux 发行版，遵循 K.I.S.S.（在设计当中应当注重简约，“Keep It Simple, Stupid”）原则。Arch Linux 以滚动更新和“简洁”（Arch Linux 将简洁定义为：避免任何不必要的添加、修改和复杂化的增加）著称。它的初始安装仅提供命令行环境，一般被认为适合高级用户。
 - CentOS：来自于 RHEL 依照开放源代码规定发布的源代码所编译而成。以稳定可靠和与 RHEL 的兼容性良好著称。（事实上两者的不同，在于 CentOS 不包含封闭源代码软件。CentOS 对上游代码的主要修改是为了移除不能自由使用的商标。)Linux 教程《鸟哥的 Linux 私房菜》以 CentOS 7 为教学环境。2020 年 12 月 8 日，红帽公司宣布将停止开发 CentOS。目前，CentOS 的上游版本滚动更新版分支 CentOS Stream 开发仍在继续。
 - CentOS Stream：CentOS 的上游版本滚动更新版分支。采用滚动更新策略。
 - ChromeOS：由 Google 设计基于 ChromiumOS 的操作系统，并使用 Google Chrome 浏览器作为其主要用户界面。最初设置在上网本上使用，之后推展到笔记本（Chromebook）和台式机（Chromebox）上。
