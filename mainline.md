@@ -124,7 +124,7 @@ Docker Desktop在Windows上的的官方安装教程是：[Install Docker Desktop
       4. C-W/C-Del
       5. C-Left/C-Right
       6. C-R/C-P/C-N
-      7. C-_
+      7. C-\_
       8. C-Z
       9. `!$`/`!blah`
    3. 三种参数格式（＊）
@@ -132,31 +132,38 @@ Docker Desktop在Windows上的的官方安装教程是：[Install Docker Desktop
       2. BSD风格的参数（list）
       3. GNU风格的长参数（--list）
    4. shell技巧
-      1. 使用?和*作为通配符
+      1. 使用?和\*作为通配符
       2. 使用!!调取上一条指令
-   5. 包管理器的使用
-   6. 进阶shell工具
+   5. 进阶shell工具
       1. ln
       2. touch：创建文件和更新日期
       3. find
       4. file
-      5. ps和top：系统性能监视
-      6. du和df：文件夹存储和系统存储情况
-      7. mount：挂载
-      8. grep：筛选
-      9. tar、zip、unzip和gzip：压缩和解压
-      10. wget和aria2c：更好用的下载工具
-      11. history：查看历史
-      12. export
-          1. 设置PATH变量
-      13. alias：命令别名
-      14. sudo
-   7. Shell脚本编写（＊）
-        1. 数组和变量
-        2. 条件判断
-        3. 循环
-        4. 函数
-4. 使用git进行版本管理
+      5. grep：筛选
+      6. tar、zip、unzip和gzip：压缩和解压
+      7. wget和aria2c：更好用的下载工具
+      8. history：查看历史
+      9. export
+         1. 设置PATH变量
+      10. alias：命令别名
+   6. Shell脚本编写（＊）
+      1. 数组和变量1.特殊变量
+      2. 条件判断
+      3. 循环
+      4. 函数
+      5. 单引号和双引号的区别
+      6. 指令结果
+4. Linux 系统管理
+   1. 用户与用户组
+   2. 软件管理
+      1. 几种软件包管理器：系统级、用户级和容器化
+      2. 软件包管理的最佳实践
+      3. 通过源码安装软件
+   3. 配置管理
+   4. 存储管理
+   5. 服务管理
+   6. 网络设置与备份策略（＊）
+5. 使用git进行版本管理
    1. 下载并配置git
    2. git init和git clone
    3. git add
