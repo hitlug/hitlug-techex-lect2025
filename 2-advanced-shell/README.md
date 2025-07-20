@@ -3,6 +3,7 @@
 前置知识：无。有操作系统基础、编程语言基础者为佳。第一讲已学有帮助。
 
 Copyright 2025 wold9168@GitHub(Shinonome Tera tanuki)
+校对：OhanaTyan@GitHub
 
 本讲主要涵盖 Shell 必知必会的高级知识（这里的高级是相对于直接使用 Shell 指令这种基础操作而言的）。
 
