@@ -142,6 +142,8 @@ echo file1 file2 file3 | xargs -I _ touch _ --no-create # 等价于 touch "file1
 | Ctrl+←/Alt+B | 向后一个单词。                                                                                       |
 | Ctrl+→/Alt+F | 向前一个单词。                                                                                       |
 
+`bash`以及其他许多的命令行应用都在使用`readline`这一软件库，上述快捷键皆由该库提供，因而许多命令行应用的快捷键是互通的。阅读`readline(3)`获取有关于该软件库更多信息。
+
 ## Shell 编程
 
 ### 变量
