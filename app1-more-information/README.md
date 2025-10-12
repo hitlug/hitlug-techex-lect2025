@@ -20,7 +20,7 @@ Copyright 2025 wold9168@GitHub(Shinonome Tera tanuki)
 ## Linux 参考
 
 - [The Linux Kernel documentation](https://docs.kernel.org/)：Linux 内核的官方文档。
-- [TLDP (The Linux Documentation Project)]：社区维护的一组 Linux 文档，包含许多高级知识。例如：[Building a root filesystem（创建一个根文件系统）](https://tldp.org/HOWTO/Bootdisk-HOWTO/buildroot.html)
+- [TLDP (The Linux Documentation Project)](https://tldp.org/)：社区维护的一组 Linux 文档，包含许多高级知识。例如：[Building a root filesystem（创建一个根文件系统）](https://tldp.org/HOWTO/Bootdisk-HOWTO/buildroot.html)
 
 ## Linux 资讯
 
