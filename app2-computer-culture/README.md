@@ -82,7 +82,7 @@ GNU 的[《什么是自由软件？》](https://www.gnu.org/philosophy/free-sw.z
 - TUI：“Text-Based User Interface”（基于文本的用户界面）的缩写，或者是“Terminal User Interface”（终端用户界面）的缩写。一种在命令行中运行的交互式文本界面，在命令行中实现了类似于 GUI 的视觉效果和交互性。
 - GUI：“Graphical User Interface”（图形用户界面）的缩写。
 - API：“Application Programming Interface”（应用程序编程接口）的缩写。是一组预定义的规则、协议和工具，使得开发者可以调用其他软件系统的功能。
-- ABI：“Application Binary Interface”（应用二进制接口）的缩写。在软件开发中指代两程序模块间的接口；通常其中一个程序模块会是函数库或操作系统所提供的服务，而另一边的模块则是用户所执行的程序。
+- ABI：“Application Binary Interface”（应用二进制接口）的缩写。一个ABI定义了机器代码如何访问数据结构与运算程序。
 - ISA：“Instruction Set Architecture”（指令集架构）的缩写。指令集定义了一套软件控制中央处理器（CPU）的抽象方法。
 - boot：指操作系统启动的过程。
 - data：数据。
