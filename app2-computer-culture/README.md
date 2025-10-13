@@ -72,6 +72,7 @@ GNU 的[《什么是自由软件？》](https://www.gnu.org/philosophy/free-sw.z
 - log：指软件日志。
 - framework：通常指一组方便开发者开发应用的工具和组件。通称“框架”。
 - native：意为“原生”。即“一开始就被设计用于这个场景”。Windows 应用在 Windows 平台上运行可以称之为 native，而使用兼容层（一种技术方案）在 Linux 上运行便不是 native。
+- upstream/downstream：意为“上游”和“下游”，是描述代码、变更或依赖关系流向的术语。软件的依赖、衍生、再分发就像水流一样，一个软件包的依赖项是其上游，软件包的衍生和第三方分发版本是其下游。例如：Android 操作系统是 GNU/Linux 内核的下游。
 
 ### 计算机概念和软件设计概念相关的俚语
 
