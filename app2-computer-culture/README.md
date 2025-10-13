@@ -113,6 +113,7 @@ GNU 的[《什么是自由软件？》](https://www.gnu.org/philosophy/free-sw.z
 - bps：“bits per second”（位每秒）的缩写，传输速率的单位。1Kbps 就是每秒传输 1024 位。
 - Bps：“bytes per second”（字节每秒）的缩写，传输速率的单位。1KBps 就是每秒传输 1024 字节，即 1024*8 = 8192 位。
 - pm：“Private Message”（私信）的缩写。可以指发私信的动作。
+- LGTM: “Looks Good To Me“ 的缩写。通常用在 PR 的 Review 阶段，表示审查者认为当前 PR 没有问题，可以合并。 
 
 ### 特定科技产品相关的俚语
 
@@ -121,7 +122,7 @@ GNU 的[《什么是自由软件？》](https://www.gnu.org/philosophy/free-sw.z
 - cf：“Cloudflare”的缩写。CloudFlare 是一个全球性的云平台；也可以指代“Codeforces”，一个编程竞赛题在线评测平台。
 - ms/m\$：“Microsoft”（微软）的缩写。“m$”这一缩写经常用于讽刺微软见钱眼开，做出利益导向的决策。
 - ff：“Firefox”（火狐）的缩写，久负盛名的开源浏览器。也可用于指代 Square Enix 公司的电子游戏《最终幻想》系列。
-- 农厂/农企：硬件话题下特指 AMD（超微半导体）。因为 AMD 经常被错误拼写为 ADM。ADM 是“Archer Daniels Midland”（美国阿彻丹尼尔斯米德兰公司）的缩写，是全球最大的油菜籽、玉米和小麦加工企业之一。
+- 农厂/农企：硬件话题下特指 AMD（超微半导体）。因为 AMD 经常被错误拼写为 ADM。ADM 是“Archer Daniels Midland”（美国阿彻丹尼尔斯米德兰公司）的缩写，是全球最大的油菜籽、玉米和小麦加工企业之一。另一方面则源于自其多代 CPU 微架构以重型机械命名（如 Bulldozer（推土机）、Piledriver（打桩机）、Steamroller（压路机）、Excavator（挖掘机））。
 - 鹅厂：腾讯公司的俚语。因为腾讯公司的代表产品 QQ 的 LOGO 是一只企鹅。
 - 猪厂：网易公司的俚语。因为据说某年互联网大佬去开会，丁磊（网易公司创始人）带了只自己养的黑猪过去给众人吃，众人吃完赞不绝口；同时其旗下游戏产品有一种“感觉一般，但又弄得还行，让人不想退坑”，有种“把用户圈起来养”的感觉。（并且网易真的有养猪场）
 - 杂粮/粗粮/粮厂：特指小米公司。
