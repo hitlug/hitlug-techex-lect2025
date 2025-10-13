@@ -146,6 +146,15 @@ GNU 的[《什么是自由软件？》](https://www.gnu.org/philosophy/free-sw.z
 
 不要轻易置喙技术产品的优劣，亦不要陷入斗兽棋思维的陷阱。这可以帮助你避免很多完全没有必要的争议。
 
+在即时聊天场景下，如若要张贴代码、日志，请使用在线剪贴板。常用的在线剪贴板包括：
+
+- [GitHub Gists](https://gist.github.com/)：GitHub 官方的剪贴板服务，与很多开源社区产品有良好的集成，美中不足的是被墙了。
+- [Ubuntu Paste](https://paste.ubuntu.com/)：Ubuntu 官方的剪贴板服务，需要一个 Ubuntu 账号。能用好用可以用。
+- [洛谷云剪贴板](https://www.luogu.com.cn/paste)：算法竞赛网站洛谷的剪贴板服务，需要一个洛谷账号。
+- [pastebin.com](https://pastebin.com/)：无须账号的在线剪贴板服务。
+- [fars.ee]：farseerfc 大佬的私人剪贴板站点，支持使用 curl 直接上传文本内容。
+- [paste.c-net.org](https://paste.c-net.org/)：Cathedral Networks 的剪贴板站点，支持使用 curl 直接上传文本内容。
+
 ## 延伸阅读材料
 
 - [GNU 项目：什么是自由软件？](https://www.gnu.org/philosophy/free-sw.zh-cn.html)
