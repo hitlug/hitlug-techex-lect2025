@@ -48,13 +48,12 @@ man [man options] [[section] page ...] ...
 
 第一个需要介绍的指令是`ls`。`ls`是`list directory contents`的缩写，意为“列出目录的内容”。Linux 的许多指令的命名规则都是如此。类似的指令还有：
 
-| 指令                        | 对应英文全称                            | 用途               |
-| --------------------------- | --------------------------------------- | ------------------ |
-| `pwd`                       | print name of current/working directory | 打印当前目录的地址 |
-| `cd`                        | c                                       |
-| hange the current directory | 切换当前目录                            |
-| `mkdir`                     | make directories                        | 新建目录           |
-| `rmdir`                     | remove empty directories                | 删除空目录         |
+| 指令    | 对应英文全称                            | 用途               |
+| ------- | --------------------------------------- | ------------------ |
+| `pwd`   | print name of current/working directory | 打印当前目录的地址 |
+| `cd`    | change the current directory            | 切换当前目录       |
+| `mkdir` | make directories                        | 新建目录           |
+| `rmdir` | remove empty directories                | 删除空目录         |
 
 `ls`的基本用法如下：
 
@@ -725,7 +724,7 @@ Shell 是一个命令行解释器，负责解析用户输入的命令，与操�
 
 Shell 的典例有 **CMD**、**PowerShell**、Bourne shell（**sh**）、Bourne-Again shell（**bash**）、C shell（csh）、Z shell（zsh）、friendly interactive shell（fish）。懒人环境里使用的是`bash`。读者也可以根据自己的需求安装并修改容器命令行的启动指令以更换默认的 Shell。
 
-终端模拟器的典例有 **Windows Terminal**、cmder、xterm、**Xfce4 Terminal**、**Konsole****GNOME Terminal**、Guake、Yakuake、Terminator、WezTerm等。
+终端模拟器的典例有 **Windows Terminal**、cmder、xterm、**Xfce4 Terminal**、**Konsole\*\***GNOME Terminal\*\*、Guake、Yakuake、Terminator、WezTerm等。
 
 ## 扩展了解：
 
