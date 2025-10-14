@@ -20,16 +20,26 @@ Copyright 2025 wold9168@GitHub(Shinonome Tera tanuki)
 ## Linux 参考
 
 - [The Linux Kernel documentation](https://docs.kernel.org/)：Linux 内核的官方文档。
-- [TLDP (The Linux Documentation Project)](https://tldp.org/)：社区维护的一组 Linux 文档，包含许多高级知识。例如：[Building a root filesystem（创建一个根文件系统）](https://tldp.org/HOWTO/Bootdisk-HOWTO/buildroot.html)
+- [TLDP (The Linux Documentation Project)](https://tldp.org)：社区维护的一组 Linux 文档，包含许多高级知识。例如：[Building a root filesystem（创建一个根文件系统）](https://tldp.org/HOWTO/Bootdisk-HOWTO/buildroot.html)。
+- [Explain Shell](https://explainshell.com/)：一个便捷的工具性站点，为你介绍命令行工具以及一些 Shell 的奇技淫巧。
 
 ## Linux 资讯
 
 - [LWN](https://lwn.net/)：一个专注于 Linux 内核开发、开源软件生态和自由软件社区的高质量技术新闻网站。部分文章收费，但大部分文章免费。
+- [Phoronix](https://www.phoronix.com/)：老牌 Linux 新闻网站，持续关注 Linux 内核邮件列表以及其他自由软件与开源软件新闻。
 - Stack Overflow 子站点：大名鼎鼎的 Stack Overflow 是一个高质量的英文问答社区。如贴吧一样，分设了许多小社区用以讨论各种问题。其网站的交互形式比较接近于知乎。
   - [Super User](https://superuser.com/)：为富有热情的计算机用户提供的问答社区。
   - [Server Fault](https://serverfault.com/)：为服务器管理员提供的问答社区。
   - [Ask Ubuntu](https://askubuntu.com/)：为 Ubuntu 用户提供的问答社区，对 Debian 发行版也有一定的启发性。
   - [Unix & Linux](https://unix.stackexchange.com/)：专注于 Unix 和 Linux 领域的问答社区。
+- [Distrowatch](https://distrowatch.com/)：一个以列举当前热门 Linux 发行版而闻名的讯息网站，以发行版评论以及一份流行度榜单而著名。不过其流行度榜单常因无法正确反映发行版用户规模而饱受诟病。
+- [reddit/r/linux](https://www.reddit.com/r/linux/)：reddit（美国红迪网）的 Linux 板块，约莫等价于国内的 Linux 贴吧，但是用户规模和活跃度都更上一层楼。
+- [Ubuntu Blog](https://ubuntu.com/blog)：Ubuntu 的官方博客，包含了有关于 Ubuntu 的资讯。
+
+## 其他资讯
+
+- [CVE.org](https://www.cve.org/)：一个社区驱动的国际性机构，致力于维护一个公开已知网络安全漏洞的开放数据注册表。
+- [Hacker News](https://news.ycombinator.com/)：一个专注于计算机科学和创业的社交新闻网站，以其社区成员的专业性和讨论的高质量而闻名。
 
 ## 计算机文化通识
 
