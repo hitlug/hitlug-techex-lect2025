@@ -19,7 +19,7 @@ Unix-like 则是遵循 UNIX 设计哲学的系统（包括 Linux、BSD、MacOS �
 
 我们常见的 Linux 发行版包括但不限于如下的几款（排名为字母序）：
 
-- Aipine Linux：Alpine Linux 是一个由社区开发的基于 musl 和 BusyBox 的 Linux 操作系统。其以安全为理念，面向 x86 路由器、防火墙、虚拟专用网、IP电话盒及服务器。因其轻量化，也被广泛应用于容器技术中。
+- Alpine Linux：Alpine Linux 是一个由社区开发的基于 musl 和 BusyBox 的 Linux 操作系统。其以安全为理念，面向 x86 路由器、防火墙、虚拟专用网、IP电话盒及服务器。因其轻量化，也被广泛应用于容器技术中。
 - AlmaLinux：自由且开放源代码的 Linux 发行版。被认为是 CentOS 的后继者之一。
 - AOSC：安同 OS（英译：AOSC OS）是一款以“简明可靠”为设计及维护目标的 Linux 发行版。本系统主要面向有一定 Linux 使用经验的用户，针对个人桌面设备优化体验，致力于为用户提供开箱即用和简便可靠的工作环境。其开发方安同开源社区（Anthon Open Source Community，简称 AOSC）成立于 2011 年末，是一个由计算机爱好者志愿组织工作，主要活动于线上的开源社区。该系统以支持龙芯 3 和 LoongArch 新世界架构以及 RISC-V 等新兴架构文明。
 - Arch Linux：Arch Linux 是一个轻量的、灵活的 Linux 发行版，遵循 K.I.S.S.（在设计当中应当注重简约，“Keep It Simple, Stupid”）原则。Arch Linux 以滚动更新和“简洁”（Arch Linux 将简洁定义为：避免任何不必要的添加、修改和复杂化的增加）著称。它的初始安装仅提供命令行环境，一般被认为适合高级用户。
@@ -40,7 +40,7 @@ Unix-like 则是遵循 UNIX 设计哲学的系统（包括 Linux、BSD、MacOS �
 - Loongnix：2015 年 8 月 18 日龙芯中科在产品发布会上发布的基于 Fedora 21 版本的新 Linux 操作系统。被认为是 LoongArch 架构的第一方操作系统。
 - Manjaro：Manjaro Linux（或简称 Manjaro）是基于 Arch Linux 的 Linux 发行版。基于 Arch Linux，但拥有自己独立的软件仓库。目标是让强大的 Arch 更方便用户使用。
 - NixOS：一个基于 Nix 的 Linux 发行版。系统的所有组件（包括内核、已安装的包和系统配置文件）都是由 Nix 从 Nix 表达式构建的。以所谓“可复现性”闻名。（Nix 要保证输入和输出是对应的，因此相同的配置文件可以得到一个相同的系统。）
-- openSUSE：前身为 SUSE Linux 和 SuSE Linux Professional，是一个 Linux 发行版计划，由 SUSE Linux GmBH 与其他公司赞助。因为其徽标是一只蜥蜴，因而也被亲切称呼为“大蜥蜴”。它的开发重心是为软件开发者和系统管理者创造适用的开放源代码的工具，并提供易于使用的桌面环境和功能丰富的服务器环境。同样因易于上手及其专业性久负盛名。
+- openSUSE：前身为 SUSE Linux 和 SUSE Linux Professional，是一个 Linux 发行版计划，由 SUSE Linux GmBH 与其他公司赞助。因为其徽标是一只蜥蜴，因而也被亲切称呼为“大蜥蜴”。它的开发重心是为软件开发者和系统管理者创造适用的开放源代码的工具，并提供易于使用的桌面环境和功能丰富的服务器环境。同样因易于上手及其专业性久负盛名。
 - Puppy Linux：一个轻量级的 Linux 发行版。专注于易用性和尽量减少存储器使用量，适合在老设备上使用。
 - Raspberry Pi OS：原为 Raspbian，基于 Debian 开发的操作系统，专为树莓派设备开发。从 2015 年起，树莓派基金会正式将其作为树莓派的官方操作系统。
 - Red Hat Enterprise Linux：一个由 Red Hat 开发的商业市场导向的 Linux 发行版。Red Hat Enterprise Linux 的非官方简称是 RHEL。以稳定可靠和文档丰富著称，但是需要商用许可证。
