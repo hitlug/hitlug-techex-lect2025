@@ -153,7 +153,7 @@ GNU 的[《什么是自由软件？》](https://www.gnu.org/philosophy/free-sw.z
 - [Ubuntu Paste](https://paste.ubuntu.com/)：Ubuntu 官方的剪贴板服务，需要一个 Ubuntu 账号。能用好用可以用。
 - [洛谷云剪贴板](https://www.luogu.com.cn/paste)：算法竞赛网站洛谷的剪贴板服务，需要一个洛谷账号。
 - [pastebin.com](https://pastebin.com/)：无须账号的在线剪贴板服务。
-- [fars.ee]：farseerfc 大佬的私人剪贴板站点，支持使用 curl 直接上传文本内容。
+- [fars.ee](https://fars.ee/)：farseerfc 大佬的私人剪贴板站点，支持使用 curl 直接上传文本内容。
 - [paste.c-net.org](https://paste.c-net.org/)：Cathedral Networks 的剪贴板站点，支持使用 curl 直接上传文本内容。
 
 ## 延伸阅读材料
